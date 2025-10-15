@@ -3,3 +3,6 @@ F1
 =======
 F2
 >>>>>>> f2
+
+
+modif en vue de déclencher un trigger
